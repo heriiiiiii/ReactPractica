@@ -17,7 +17,7 @@ export const PrimerComponente = () => {
     return (
         <div>
             <h1>Mi primer Componente</h1>
-            <p>Este texto es de mi primer componente</p>
+            <p>Este texto es de mi primer componente modificado</p>
             <p>Mi nombre es: <strong className={nombre.length >=4 ? 'verde' : 'rojo' }>{nombre}</strong></p>
             <p>Mi web es: {web}</p>
 
