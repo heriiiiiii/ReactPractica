@@ -8,6 +8,7 @@ export const PrimerComponente = () => {
         "Curso de C#",
         "Curso de React",
         "Curso de JavaScript",
+        "Curso de Inteligencia Artificial",
     ];
 
     const cambiarNombre = (nuevoNombre) => {
